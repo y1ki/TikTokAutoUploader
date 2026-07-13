@@ -27,7 +27,7 @@
 1. Клонируйте репозиторий:
 ```bash
 git clone https://github.com/y1ki/TikTokAutoUploader.git
-cd TikTokAutoUploader/tiktok
+cd TikTokAutoUploader
 ```
 
 2. Установите зависимости:
