@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 "# TikTok Auto Uploader
 
 Автоматический загрузчик видео в TikTok с удобным графическим интерфейсом на PyQt6.
@@ -172,3 +173,6 @@ Contributions, issues и feature requests приветствуются!
 ---
 
 Made with ❤️ by [y1ki](https://github.com/y1ki)" 
+=======
+# TikTokAutoUploader
+>>>>>>> 433b308e68ba3c5a8c3eb5d59c8ec80e704e0de8
